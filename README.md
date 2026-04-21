@@ -1,22 +1,23 @@
-# 🐳 idempiere-docker
+# idempiere-docker
 
-Repositorio orientado a **ejecutar iDempiere sobre contenedores**, ideal para ambientes repetibles y pruebas rápidas.
+Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
 
-![Docker](https://img.shields.io/badge/Docker-iDempiere-blue?logo=docker) ![iDempiere](https://img.shields.io/badge/iDempiere-ERP-0A7E8C)
+---
 
-## Descripción
+## 📌 Objetivo
 
-El foco del proyecto es encapsular componentes del ERP en una infraestructura basada en Docker para simplificar despliegue y experimentación.
+Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
 
-## Objetivo
+## 📁 Revisión recomendada
 
-Reducir la complejidad del arranque de iDempiere y facilitar la administración de entornos locales.
+Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
 
-## Uso
+```bash
+git clone git@github.com:Carl0gonzalez/idempiere-docker.git
+cd idempiere-docker
+```
 
-Ejecuta los archivos de orquestación del repositorio según la configuración incluida.
-
-## Autor
+## 👤 Autor
 
 **Carlo González**
 
